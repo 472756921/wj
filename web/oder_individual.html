@@ -15,15 +15,29 @@
 <body>
     <h4 class="am-text-center head">我的订单</h4>
     <div class="content">
-        <div class="am-form-group am-form-icon">
-            <i class="fa fa-search" aria-hidden="true"></i>
-            <input type="text" class="am-form-field" placeholder="Search">
+        <div class="am-form-group am-form-icon search">
+            <i class="am-icon-search"></i>
+            <input type="text" class="am-form-field am-radius" placeholder="Search">
+        </div>
+    </div>
+    <div class="am-g">
+        <div class="am-u-sm-6 bor">
+            <button type="button" class="am-btn am-btn-primary am-center am-btn-sm">未完成</button>
+        </div>
+        <div class="am-u-sm-6">
+            <button type="button" class="am-btn am-btn-primary am-center am-btn-sm">已完成</button>
         </div>
     </div>
 </body>
 <style>
     .content{
         padding: .6rem 1.4rem;
+    }
+    .search{
+        color: #ccc;
+    }
+    .bor{
+        border-right: 1px solid #999;
     }
 </style>
 </html>
