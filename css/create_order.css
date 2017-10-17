@@ -1,0 +1,15 @@
+.items{
+    line-height: 3rem;
+    font-size: 1.2rem;
+}
+.select{
+    width: 100%;
+    height: 2.8rem;
+    border: 1px solid #ccc;
+}
+textarea{
+    resize: none;
+    border: 1px solid #ccc;
+    width:100%;
+    line-height: 1.6rem;
+}
