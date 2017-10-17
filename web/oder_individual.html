@@ -21,23 +21,33 @@
         </div>
     </h4>
     <div class="content">
-        <div class="am-form-group am-form-icon search am-margin-bottom-xs">
+        <div class="am-form-group am-form-icon search am-margin-xs">
             <i class="am-icon-search"></i>
             <input type="text" class="am-form-field am-radius" placeholder="Search">
         </div>
     </div>
-    <div class="am-g ti am-padding-bottom-sm">
+    <div class="am-g ti">
         <div class="am-u-sm-6 bor">
-            <button type="button" class="am-btn am-btn-primary am-center am-btn-sm">未完成</button>
+            <button type="button" class="am-btn am-btn-warning am-center am-btn-sm btnRound">未完成</button>
         </div>
-        <div class="am-u-sm-6">
-            <button type="button" class="am-btn am-btn-primary am-center am-btn-sm">已完成</button>
+        <div class="am-u-sm-6 bor">
+            <button type="button" class="am-btn am-btn-primary am-center am-btn-sm btnRound">已完成</button>
         </div>
     </div>
     <div class="items am-padding-top-sm">
         <div class="info  am-padding-xs">
-            <span class="title"><i class="am-icon-user am-icon-sm" style="font-size: 1.4rem"></i> XXX商户 <i class="am-icon-angle-right" style="font-size: 2rem"></i></span>
-            <span class="am-fr">交易成功</span>
+            <span class="title"><i class="am-icon-user am-icon-sm"></i> XXX商户 <i class="am-icon-chevron-right"></i></span>
+            <span class="am-fr am-text-danger">交易成功</span>
+        </div>
+        <div class="prd">
+            <div class="am-g">
+                <div class="am-u-sm-5">
+                    <img src="http://iph.href.lu/130x70?text=%E5%95%86%E5%93%81"/>
+                </div>
+                <div class="am-u-sm-7">
+
+                </div>
+            </div>
         </div>
     </div>
 </body>
@@ -46,23 +56,24 @@
         color: #666;
     }
     .content{
+        background: #eee;
         padding: .6rem 1.4rem;
     }
     .search{
         color: #ccc;
     }
     .bor{
-        border-right: 1px solid #999;
+        padding: 1rem;
     }
     .ti{
-        border-bottom: 4px solid #ccc;
     }
     .items{
 
     }
+    .title i{
+        color: #666;
+    }
     .info{
-        border-top: 1px solid #ccc;
-        border-bottom: 1px solid #ccc;
         font-size: 1.4rem;
     }
 </style>
