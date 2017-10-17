@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37ec311f-798c-44e9-aa59-59fd9d871764" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/create_order.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/create_order_a.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/create_order_b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/user_message.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/user_message.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/create_order.css" afterPath="$PROJECT_DIR$/css/create_order.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/create_order_b.html" afterPath="$PROJECT_DIR$/web/create_order_b.html" />
     </list>
     <ignored path="wj.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,30 +27,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="create_order_a.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/create_order_a.html">
+      <file leaf-file-name="user_message.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/user_message.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-25.307692">
-              <caret line="90" column="63" selection-start-line="90" selection-start-column="63" selection-end-line="90" selection-end-column="63" />
+            <state vertical-scroll-proportion="-23.692308">
+              <caret line="28" column="39" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="create_order_b.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/create_order_b.html">
+      <file leaf-file-name="public.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/public.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5011389">
-              <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+            <state vertical-scroll-proportion="-9.307693">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="create_order.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/create_order.css">
+      <file leaf-file-name="user_message.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/user_message.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.0">
+            <state vertical-scroll-proportion="0.3257403">
               <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
               <folding />
             </state>
@@ -77,8 +78,11 @@
         <option value="$PROJECT_DIR$/css/public.css" />
         <option value="$PROJECT_DIR$/web/oder_individual.html" />
         <option value="$PROJECT_DIR$/web/oder_merchant.html" />
-        <option value="$PROJECT_DIR$/css/create_order.css" />
         <option value="$PROJECT_DIR$/web/create_order_a.html" />
+        <option value="$PROJECT_DIR$/css/create_order.css" />
+        <option value="$PROJECT_DIR$/web/create_order_b.html" />
+        <option value="$PROJECT_DIR$/web/user_message.html" />
+        <option value="$PROJECT_DIR$/css/user_message.css" />
       </list>
     </option>
   </component>
@@ -282,7 +286,13 @@
       <option name="project" value="LOCAL" />
       <updated>1508247515961</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="change">
+      <created>1508248942733</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1508248942733</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -365,22 +375,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/public.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.70159453">
-          <caret line="28" column="3" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/create_order.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.0">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/oder_individual.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6788155">
@@ -399,16 +393,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/create_order_a.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.307692">
-          <caret line="90" column="63" selection-start-line="90" selection-start-column="63" selection-end-line="90" selection-end-column="63" />
+        <state vertical-scroll-proportion="0.74943054">
+          <caret line="90" column="32" selection-start-line="90" selection-start-column="32" selection-end-line="90" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/create_order.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45102507">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/create_order_b.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5011389">
-          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+        <state vertical-scroll-proportion="-54.153847">
+          <caret line="64" column="91" selection-start-line="64" selection-start-column="91" selection-end-line="64" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/public.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.307693">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/user_message.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.692308">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/user_message.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3257403">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
           <folding />
         </state>
       </provider>

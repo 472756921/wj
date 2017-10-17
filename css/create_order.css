@@ -13,3 +13,8 @@ textarea{
     width:100%;
     line-height: 1.6rem;
 }
+.inputU{
+    width: 100%;
+    border: 1px solid #ccc;
+    line-height: 2rem;
+}
