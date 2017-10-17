@@ -13,7 +13,13 @@
     <link rel="stylesheet" href="../css/public.css">
 </head>
 <body>
-    <h4 class="am-text-center head">我的订单</h4>
+    <h4 class="am-text-center head">
+        <div class="am-g">
+            <div class="am-u-sm-4 am-text-left"><i class="am-icon-angle-left"></i></div>
+            <div class="am-u-sm-4">我的订单</div>
+            <div class="am-u-sm-4 am-text-right"><i class="am-icon-cog"></i></div>
+        </div>
+    </h4>
     <div class="content">
         <div class="am-form-group am-form-icon search am-margin-bottom-xs">
             <i class="am-icon-search"></i>
@@ -30,7 +36,7 @@
     </div>
     <div class="items am-padding-top-sm">
         <div class="info  am-padding-xs">
-            <span class="title"><i class="am-icon-user am-icon-sm"></i> XXX商户 <i class="am-icon-chevron-right"></i></span>
+            <span class="title"><i class="am-icon-user am-icon-sm" style="font-size: 1.4rem"></i> XXX商户 <i class="am-icon-angle-right" style="font-size: 2rem"></i></span>
             <span class="am-fr">交易成功</span>
         </div>
     </div>
@@ -57,6 +63,7 @@
     .info{
         border-top: 1px solid #ccc;
         border-bottom: 1px solid #ccc;
+        font-size: 1.4rem;
     }
 </style>
 </html>
