@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5f1afa10-75a9-41ae-bc19-ed049c1149b0" name="lo" url="http://10.0.0.6:8080/wj">
+        <fileTransfer mountedRoot="D:\BensonGIT\wj" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
