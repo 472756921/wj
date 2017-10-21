@@ -49,3 +49,12 @@ i{
     z-index:1;
     width: 30%;
 }
+footer{
+    position: fixed;
+    bottom: 0;
+    background: #39BAE8;
+    width: 100%;
+}
+footer i{
+    color: #ffffff;
+}
