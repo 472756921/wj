@@ -18,6 +18,9 @@ h1,h2,h3,h4,h5{
 .round{
     border-radius: 4px;
 }
+.round50{
+    border-radius: 50%;
+}
 .clear{
     clear: both;
 }
