@@ -18,3 +18,29 @@ textarea{
     border: 1px solid #ccc;
     line-height: 2rem;
 }
+.bor{
+    border: 1px solid #aaa;
+    height: 12rem;
+    padding-top: 3rem;
+    position: relative;
+    color: #bbb;
+}
+.title{
+    background: #F7E4C5;
+    color: #E73A38;
+}
+.textB{
+    background: #cccccc;
+    bottom: 0;
+    position: absolute;
+    width:100%;
+    color: #ffffff;
+}
+.plan{
+    background-color: #fff;
+}
+.am-text-gre{
+    color: #cccccc;
+}.am-text-gre2{
+    color: #bbb;
+}

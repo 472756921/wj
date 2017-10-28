@@ -1,6 +1,6 @@
 .bo{
     bottom: 0;
-    color: #999;
+    color: #fff;
     width: 100%;
     padding: .6rem;
     margin-top: calc(100% - 15em);
@@ -10,5 +10,13 @@
     height: 3rem;
 }
 .textTitle{
-    color: #999;
+    color: #ffffff;
+}
+html{
+    height: 100%;
+}
+body{
+    background: url("../img/bk.jpg");
+    height: 100%;
+    color: #ffffff;
 }
